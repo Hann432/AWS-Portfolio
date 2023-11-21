@@ -3,8 +3,9 @@
 #Cloud Foundation 2:  Fact Finding 
 
 <div style="text-align:center">
-  <img src="https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png" alt="https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png">
+  <img src="https://i.pcmag.com/imagery/reviews/0179dSC1AqaTy8DbcTJMDYE-7.fit_scale.size_760x427.v1569472044.jpg" alt="Your Image Description">
 </div>
+
 
 ![alt text](https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png)
 
