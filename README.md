@@ -3,7 +3,7 @@
 #Cloud Foundation 2:  Fact Finding 
 
 <div style="text-align:center">
-  <img src="https://i.pcmag.com/imagery/reviews/0179dSC1AqaTy8DbcTJMDYE-7.fit_scale.size_760x427.v1569472044.jpg" alt="aws">
+  <img src="https://www.ezyvet.com/wp-content/uploads/2015/09/AmazonAWS.png" alt="aws">
 </div>
 
 
