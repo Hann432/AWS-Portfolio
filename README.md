@@ -3,7 +3,7 @@
 #Cloud Foundation 2:  Fact Finding 
 
 <div style="text-align:center">
-  <img src="https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png" alt="Your Image Description">
+  <img src="https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png" alt="https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png">
 </div>
 
 ![alt text](https://www.usatoday.com/gcdn/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2016/10/24/USATODAY/usatsports/amzn-aws-banner_large.png)
